@@ -18,6 +18,9 @@ Habit lock is a mobile application that helps users build descipline by tracking
 - Implement Habits Tracking logic
 
 
+## ------------------------------------------- ##
+
+
 ## Planned Folder Stucture 
 lib/
 -----Screens/
