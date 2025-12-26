@@ -16,3 +16,27 @@ Habit lock is a mobile application that helps users build descipline by tracking
 -Flutter (Android)
 -Build Home Screen UI
 - Implement Habits Tracking logic
+
+
+## Planned Folder Stucture 
+lib/
+-----Screens/
+      -----home screeen.dart
+      -----
+
+add_habits_Screenn-.dart
+-------/
+MOdels/
+   -----habits_model.dart
+   
+Searvices /
+-----
+
+Storage SErvice.dart
+----------
+
+reward service .dart
+
+--------main.dart
+
+## Only folder Structure and purpose of this app 
